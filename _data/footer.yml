@@ -6,7 +6,7 @@
   - name: About
     link: /about/
   - name: Contact
-    link: support@clipwise.com
+    link: /contact/
 - links:
   - name: Login
     link: /
